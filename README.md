@@ -1,8 +1,8 @@
 [
 {
 "name":"اپدیت",
-"text":"اپدیت کنید",
-"update": "1.2",
+"text":"اپدیت جدید موجود است",
+"update": "1.1",
 "link":"https://github.com/rezazadeh1/Rezazadeh.git",
 "mode": true
 }
