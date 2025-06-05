@@ -2,7 +2,7 @@
 {
 "name":"اپدیت",
 "text":"اپدیت کنید",
-"update": "1.1",
+"update": "1.2",
 "link":"https://github.com/rezazadeh1/Rezazadeh.git",
 "mode": true
 }
